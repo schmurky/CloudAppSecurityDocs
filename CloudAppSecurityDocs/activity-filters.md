@@ -31,6 +31,10 @@ To drill down into more specific activities, you can expand the basic filter by 
 > [!NOTE]
 > The Legacy tag is added to any activity policy that use the older "user" filter. This filter will continue to work as usual. If you want to remove the Legacy tag, you can remove the filter and add the filter again using the new **User name** filter.
 
+> [!TIP]
+> Advanced hunting in Microsoft 365 Defender now supports an easy-to-use query builder for analysts who want to hunt through cloud app data and other threat data (if available) even if they do not know Kusto Query Language. To get started, read [Build queries using guided mode](https://docs.microsoft.com/microsoft-365/security/defender/advanced-hunting-query-builder).
+
+
 ## The Activity drawer
 
 ### Working with the Activity drawer
